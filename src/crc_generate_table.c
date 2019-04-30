@@ -9,6 +9,7 @@
 
 int main(void)
 {
-    create_table();
+    create_table(0);
+
     return 0;
 }
